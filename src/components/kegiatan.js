@@ -156,7 +156,7 @@ class kegiatan extends Component {
             <div className="col-lg-8 features-text wow fadeInRight">
               {
                 (this.state.play === false)? 
-                <ReactPlayer width="100%" url={this.state.video}/>:
+                'Silahkan tekan tombol Play':
                 <ReactPlayer width="100%" url={this.state.video} playing/>
               }
               <br/>
