@@ -112,7 +112,7 @@ class kegiatan extends Component {
             <div className="col-lg-4 features-text wow fadeInLeft">
                 <small>Desa Jingkang</small>
                 <h2>Dokumentasi Foto </h2>
-                <p>Kenangan-kenangan berupa foto selama berkegiatan di Desa Dingkang, kecamatan Tanjungmedar, Kabupaten Sumedang, Provinsi Jawa Barat.</p>
+                <p>Kenangan-kenangan berupa foto selama berkegiatan di Desa Jingkang, kecamatan Tanjungmedar, Kabupaten Sumedang, Provinsi Jawa Barat.</p>
                 <hr/>
                 <div className="col-lg-6">
                   <button className="btn btn-primary block full-width m-b" onClick={this.prevFoto}>Prev</button>
@@ -137,7 +137,7 @@ class kegiatan extends Component {
             <div className="col-lg-4 features-text wow fadeInLeft">
                 <small>Desa Jingkang</small>
                 <h2>Dokumentasi Video </h2>
-                <p>Kenangan-kenangan berupa video selama berkegiatan di Desa Dingkang, kecamatan Tanjungmedar, Kabupaten Sumedang, Provinsi Jawa Barat.</p>
+                <p>Kenangan-kenangan berupa video selama berkegiatan di Desa Jingkang, kecamatan Tanjungmedar, Kabupaten Sumedang, Provinsi Jawa Barat.</p>
                 <hr/>
                 <div className="col-lg-4">
                   <button className="btn btn-primary block full-width m-b" onClick={this.prevVideo}>Prev</button>
