@@ -5,7 +5,12 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-player": "^1.11.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "react-slick": "^0.24.0",
+    "react-slideshow-image": "^1.1.5",
+    "slick-carousel": "^1.8.1"
   },
   "scripts": {
     "start": "react-scripts start",
