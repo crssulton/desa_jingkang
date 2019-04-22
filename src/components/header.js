@@ -14,7 +14,7 @@ class header extends Component {
                         <span className="icon-bar"></span>
                         <span className="icon-bar"></span>
                     </button>
-                    <a className="navbar-brand" href="#">DESA JINGKANG</a>
+                    <Link className="navbar-brand" to="/">DESA JINGKANG</Link>
                 </div>
                 <div id="navbar" className="navbar-collapse collapse">
                     <ul className="nav navbar-nav navbar-right">
